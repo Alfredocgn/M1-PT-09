@@ -17,7 +17,7 @@ Como ejercicio adicional y completamente opcional, al terminar de resolver este 
 function nFactorial(n) {
   if (n<=2){
     return n 
-  }
+    }
   return n*nFactorial(n-1)
 }
 
